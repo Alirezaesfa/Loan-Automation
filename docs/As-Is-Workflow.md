@@ -1,6 +1,6 @@
 # As-Is Workflow
 
-This document describes the current-state process used by NorthRiver Bank to evaluate personal loan applications. The existing workflow is manual, slow, and inconsistent, forming the baseline for future-state improvements.
+This document describes the current-state process used by ABCD Bank to evaluate personal loan applications. The existing workflow is manual, slow, and inconsistent, forming the baseline for future-state improvements.
 
 ---
 
