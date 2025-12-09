@@ -52,5 +52,5 @@ loan-automation-ba-project/
 
 - Start in `docs/` to read through the business requirements, workflows, and specifications.
 - Open `diagrams/` to view architecture, process, and UI visual assets.
-- Use `dashboards/` and `sql/` together as examples of how loan performance and risk can be monitored using BI tools.
+- Use `dashboards/` and `SQL Samples/` together as examples of how loan performance and risk can be monitored using BI tools.
 - The `pdf/Requirement-Gathering.pdf` file contains the compiled version of the project.
