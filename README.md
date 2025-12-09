@@ -40,8 +40,7 @@ loan-automation-ba-project/
 │   ├── kpi-dashboard.png
 │   ├── risk-distribution.png
 │
-├── sql/
-│   ├── funnel_metrics.sql
+├── SQL Samples/
 │   ├── underwriting_workload.sql
 │   ├── risk_distribution.sql
 │
