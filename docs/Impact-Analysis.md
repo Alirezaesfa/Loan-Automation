@@ -56,4 +56,4 @@ This document summarizes the operational, technical, compliance, and financial i
 
 ## 7. Strategic View
 
-ALDS positions NorthRiver Bank more competitively in digital lending, providing a scalable model for future products while controlling risk and maintaining compliance.
+ALDS positions ABCD Bank more competitively in digital lending, providing a scalable model for future products while controlling risk and maintaining compliance.
