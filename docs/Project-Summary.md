@@ -1,6 +1,6 @@
 # Project Summary
 
-The Automated Loan Decisioning System (ALDS) project modernizes NorthRiver Bank’s personal lending process by replacing manual underwriting steps with an automated, rules-driven solution.
+The Automated Loan Decisioning System (ALDS) project modernizes ABCD Bank’s personal lending process by replacing manual underwriting steps with an automated, rules-driven solution.
 
 ---
 
