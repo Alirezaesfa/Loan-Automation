@@ -6,7 +6,7 @@ This document outlines the high-level business needs for the Automated Loan Deci
 
 ## 1. Business Context
 
-NorthRiver Bank aims to modernize its personal lending process, moving away from manual reviews and reducing customer wait times. Competitors have introduced near-instant approval systems, and customer expectations have shifted toward faster, more transparent digital borrowing experiences. ALDS supports this shift by automating verification steps, centralizing decision logic, and improving the consistency of underwriting outcomes.
+ABCD Bank aims to modernize its personal lending process, moving away from manual reviews and reducing customer wait times. Competitors have introduced near-instant approval systems, and customer expectations have shifted toward faster, more transparent digital borrowing experiences. ALDS supports this shift by automating verification steps, centralizing decision logic, and improving the consistency of underwriting outcomes.
 
 ---
 
